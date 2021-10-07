@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161.005" height="55.605" viewBox="0 0 161.005 55.605">
+  <g id="グループ_3" data-name="グループ 3" transform="translate(-205.956 -130.63)">
+    <path id="パス_10" data-name="パス 10" d="M241.4,151.854c1.383-1.737,2.7-4,1.96-5.983-1.566-4.223-11.072-3.431-11.94-6.647-.372-1.378.815-3.59,6.95-7.312" transform="translate(-1.156)" fill="none" stroke="#20190b" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="長方形_8" data-name="長方形 8" width="63.046" height="34.727" rx="12" transform="translate(207.456 150.008)" fill="#db7c00" stroke="#20190b" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="パス_11" data-name="パス 11" d="M229.248,167.435h-4.9v-4.57a1.9,1.9,0,0,0-1.964-1.831h-2.972a1.9,1.9,0,0,0-1.964,1.831v4.57h-4.9a1.9,1.9,0,0,0-1.963,1.831v2.772a1.9,1.9,0,0,0,1.963,1.831h4.9v4.57a1.9,1.9,0,0,0,1.964,1.831h2.972a1.9,1.9,0,0,0,1.964-1.831v-4.57h4.9a1.9,1.9,0,0,0,1.963-1.831v-2.772A1.9,1.9,0,0,0,229.248,167.435Z" transform="translate(-0.151 -3.281)" fill="#414141" stroke="#0c0c0b" stroke-miterlimit="10" stroke-width="3"/>
+    <ellipse id="楕円形_9" data-name="楕円形 9" cx="2.703" cy="2.52" rx="2.703" ry="2.52" transform="translate(250.146 164.849)" fill="#d7d012" stroke="#1a1311" stroke-miterlimit="10" stroke-width="3"/>
+    <ellipse id="楕円形_10" data-name="楕円形 10" cx="2.703" cy="2.52" rx="2.703" ry="2.52" transform="translate(261.669 164.849)" fill="#c7002a" stroke="#1a1311" stroke-miterlimit="10" stroke-width="3"/>
+    <ellipse id="楕円形_11" data-name="楕円形 11" cx="2.703" cy="2.52" rx="2.703" ry="2.52" transform="translate(256.263 170.591)" fill="#0c368a" stroke="#1a1311" stroke-miterlimit="10" stroke-width="3"/>
+    <ellipse id="楕円形_12" data-name="楕円形 12" cx="2.703" cy="2.52" rx="2.703" ry="2.52" transform="translate(255.979 159.112)" fill="#51a533" stroke="#1a1311" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="パス_12" data-name="パス 12" d="M232.26,190.538V183.43h18.192v7.108" transform="translate(-1.2 -5.803)" fill="none" stroke="#20190b" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="パス_13" data-name="パス 13" d="M251.3,163.4h-19.94V152.3H251.3Z" transform="translate(-1.156 -2.297)" fill="none" stroke="#20190b" stroke-miterlimit="10" stroke-width="3"/>
+    <text id="_20stCAFE" data-name="20stCAFE" transform="translate(276.961 170.692)" fill="#fff" stroke="#1a1311" stroke-miterlimit="10" stroke-width="3" font-size="19" font-family="Helvetica"><tspan x="0" y="0">20stCAFE</tspan></text>
+    <text id="_20stCAFE-2" data-name="20stCAFE" transform="translate(276.961 170.692)" fill="#f6900a" font-size="19" font-family="Helvetica"><tspan x="0" y="0">20stCAFE</tspan></text>
+  </g>
+</svg>

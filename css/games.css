@@ -1,0 +1,71 @@
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	background: #030922;
+}
+.container{
+	width:1000px;
+	margin:auto;
+	color:#fff;
+}
+.navigation a{
+	color: #DB7C15;
+	text-decoration:none;
+}
+
+header{
+	width: 1000px;
+	background: #030B1B;
+	float: left;
+}
+
+li{
+	float: left;
+	display: block;
+	width: 248px;
+	border: #707070 solid 1px;
+	height: 66px;
+	text-align: center;
+	line-height: 66px;
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.supermario{
+	display: block;
+	margin: 30px;
+}
+.supermario-Wrap{
+	display: flex;
+}
+.supermario-title{
+	padding:50px
+}
+
+
+address {
+	display: flex;
+}
+
+.footer__address p{
+	margin:20px;
+}
+
+.footer__all{
+	display: flex;
+	justify-content: space-between;
+}
+
+footer{
+	border-top: solid gray 1px;
+
+}
+
+.footer__img{
+	margin:10px;
+}
